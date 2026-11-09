@@ -13,3 +13,4 @@ for (const dir of outDirs) {
 }
 
 console.log('Build complete: static files copied to dist and public.');
+
