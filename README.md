@@ -71,3 +71,4 @@ python -m http.server 5173
 - On Android / Chrome: Click the three dots menu -> **Install application** or **Add to Home screen**.
 - On iOS / Safari: Tap Share -> **Add to Home Screen**.
 - Offline queueing and caching are handled by the built-in Service Worker (`sw.js`).
+
